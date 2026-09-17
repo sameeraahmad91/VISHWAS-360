@@ -1,0 +1,7 @@
+[
+  {"review_id":"RV-2001","booking_id":"BK-7001","provider_id":"SP-1004","rating":5,"sentiment":"positive","tags":["on_time","polite","quality"],"language":"English"},
+  {"review_id":"RV-2002","booking_id":"BK-7002","provider_id":"SP-1011","rating":4,"sentiment":"positive","tags":["clean_work","value"],"language":"Hindi"},
+  {"review_id":"RV-2003","booking_id":"BK-7003","provider_id":"SP-1008","rating":3,"sentiment":"mixed","tags":["late_arrival","good_repair"],"language":"Hinglish"},
+  {"review_id":"RV-2004","booking_id":"BK-7004","provider_id":"SP-1015","rating":5,"sentiment":"positive","tags":["fast","emergency"],"language":"Marathi"},
+  {"review_id":"RV-2005","booking_id":"BK-7005","provider_id":"SP-1002","rating":2,"sentiment":"negative","tags":["cancellation","communication"],"language":"English"}
+]

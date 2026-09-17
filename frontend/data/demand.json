@@ -1,0 +1,8 @@
+[
+  {"city":"Indore","zone":"Vijay Nagar","service":"Plumber","lat":22.7533,"lon":75.8937,"monthly_requests":42,"completed_requests":34,"active_providers":3,"avg_price":399,"unmet_requests":8},
+  {"city":"Indore","zone":"Palasia","service":"Electrician","lat":22.7244,"lon":75.8839,"monthly_requests":51,"completed_requests":39,"active_providers":3,"avg_price":349,"unmet_requests":12},
+  {"city":"Bhopal","zone":"MP Nagar","service":"AC Repair","lat":23.233,"lon":77.434,"monthly_requests":47,"completed_requests":29,"active_providers":2,"avg_price":599,"unmet_requests":18},
+  {"city":"Bhopal","zone":"Kolar","service":"Cleaning","lat":23.16,"lon":77.43,"monthly_requests":36,"completed_requests":31,"active_providers":4,"avg_price":499,"unmet_requests":5},
+  {"city":"Pune","zone":"Hinjewadi","service":"Appliance Repair","lat":18.5913,"lon":73.7389,"monthly_requests":58,"completed_requests":41,"active_providers":3,"avg_price":549,"unmet_requests":17},
+  {"city":"Pune","zone":"Hadapsar","service":"Painter","lat":18.5089,"lon":73.926,"monthly_requests":33,"completed_requests":25,"active_providers":2,"avg_price":699,"unmet_requests":8}
+]
