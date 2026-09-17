@@ -1,20 +1,19 @@
+# Core runtime
 fastapi
 uvicorn
 supabase
 plotly
 requests
 
-# Environment / HTTP
+# Environment / data
 python-dotenv==1.1.1
-
-# Data / ML
 numpy==1.26.4
 pandas==2.2.3
 scikit-learn==1.6.0
 scipy==1.14.1
 joblib==1.4.2
 
-# NLP / AI (optional production integrations)
+# NLP / optional LLM integrations
 spacy==3.8.3
 sentence-transformers==3.3.1
 transformers==4.47.1
@@ -23,11 +22,14 @@ groq
 langchain-groq
 langchain==0.3.13
 
-# Voice / multilingual / verification (optional)
+# Voice and multilingual integrations
 SpeechRecognition==3.13.0
 pydub==0.25.1
 PyAudio==0.2.14
 deep-translator==1.11.4
 langdetect==1.0.9
+faster-whisper>=1.1.0
+
+# Verification
 opencv-python==4.10.0.84
 Pillow==11.0.0
