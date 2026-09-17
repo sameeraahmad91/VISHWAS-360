@@ -1,58 +1,33 @@
 fastapi
-uvicorn 
+uvicorn
 supabase
 plotly
+requests
 
-# ==============================
-# ENVIRONMENT / HTTP
-# ==============================
+# Environment / HTTP
 python-dotenv==1.1.1
 
-
-# ==============================
-# AI / MACHINE LEARNING
-# ==============================
+# Data / ML
 numpy==1.26.4
 pandas==2.2.3
 scikit-learn==1.6.0
 scipy==1.14.1
 joblib==1.4.2
 
-# ==============================
-# NLP / CHATBOT
-# ==============================
+# NLP / AI (optional production integrations)
 spacy==3.8.3
 sentence-transformers==3.3.1
 transformers==4.47.1
 torch==2.5.1
-
-# ==============================
-# LLM / AI AGENTS
-# ==============================
 groq
-
-# ==============================
-# VOICE BOOKING
-# ==============================
-SpeechRecognition==3.13.0
-pydub==0.25.1
-PyAudio==0.2.14
-# ==============================
-# MULTILINGUAL SUPPORT
-# ==============================
-deep-translator==1.11.4
-langdetect==1.0.9
-# ==============================
-# IMAGE / PHOTO VERIFICATION
-# ==============================
-opencv-python==4.10.0.84
-Pillow==11.0.0
-#face-recognition==1.3.0
-
-
-# ==============================
-# AI AGENT / WORKFLOW
-# ==============================
 langchain-groq
 langchain==0.3.13
 
+# Voice / multilingual / verification (optional)
+SpeechRecognition==3.13.0
+pydub==0.25.1
+PyAudio==0.2.14
+deep-translator==1.11.4
+langdetect==1.0.9
+opencv-python==4.10.0.84
+Pillow==11.0.0
