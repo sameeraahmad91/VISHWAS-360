@@ -1,35 +1,14 @@
-# Core runtime
-fastapi
-uvicorn
-supabase
-plotly
-requests
+# Runtime
+fastapi>=0.115
+uvicorn[standard]>=0.32
+supabase>=2.10
+python-dotenv>=1.0
+pydantic>=2.8
+scikit-learn>=1.4
+numpy>=1.26
+requests>=2.31
 
-# Environment / data
-python-dotenv==1.1.1
-numpy==1.26.4
-pandas==2.2.3
-scikit-learn==1.6.0
-scipy==1.14.1
-joblib==1.4.2
-
-# NLP / optional LLM integrations
-spacy==3.8.3
-sentence-transformers==3.3.1
-transformers==4.47.1
-torch==2.5.1
-groq
-langchain-groq
-langchain==0.3.13
-
-# Voice and multilingual integrations
-SpeechRecognition==3.13.0
-pydub==0.25.1
-PyAudio==0.2.14
-deep-translator==1.11.4
-langdetect==1.0.9
+# Optional voice / translation integrations
 faster-whisper>=1.1.0
-
-# Verification
-opencv-python==4.10.0.84
-Pillow==11.0.0
+pydub>=0.25.1
+deep-translator>=1.11.4
