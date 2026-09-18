@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "RM-651D3D",
+    "booking_id": "BK-9D9FFF",
+    "when": "2026-09-17 15:43",
+    "channel": "WhatsApp",
+    "text": "Your Electrician professional arrives soon.",
+    "status": "Scheduled"
+  }
+]
